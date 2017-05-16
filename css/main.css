@@ -1,0 +1,12 @@
+body {
+    background-color: indigo;
+}
+#menu-principal {
+    width: 80%;
+    margin: 0 auto;
+    background-color: whitesmoke;
+}
+#menu-principal ul {
+    list-style: none;
+    padding-left: 0;
+}
